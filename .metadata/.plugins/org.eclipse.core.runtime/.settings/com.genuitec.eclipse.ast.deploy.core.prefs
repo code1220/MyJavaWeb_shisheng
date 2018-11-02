@@ -1,0 +1,14 @@
+#Fri Nov 02 21:26:22 CST 2018
+tomcat7Server.keshe.isUptoDate=true
+tomcat7Server.keshe.isExploded=true
+tomcat7Server.keshe.shouldBackup=true
+tomcat7Server.keshe.deployIsOverProject=false
+tomcat7Server.keshe.shouldOverwrite=false
+tomcat7Server.keshe.isDeployed=true
+tomcat7Server.keshe.type=WebDeployment
+tomcat7Server.keshe.noFileCopy=false
+tomcat7Server.keshe.IEARProjectName=
+tomcat7Server.keshe.deploymentPath=C\:\\apache-tomcat-7.0.42\\webapps\\keshe
+eclipse.preferences.version=1
+tomcat7Server.keshe.altContextRoot=
+tomcat7Server.keshe.contextRoot=/keshe
